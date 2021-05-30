@@ -5,7 +5,7 @@
 
 - 🌱 I’m always ready to learn new things 🌟
 
-- 🥅 2021 Goals: Learning new things 🔥
+- 🥅 2021 Goals: Learning React native  🔥
 
 ### Connect with me:
 
